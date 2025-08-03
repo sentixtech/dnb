@@ -1,0 +1,384 @@
+@import url(style.css);
+.md-border-last{
+    border-right: 2px solid #cacaca;
+} 
+@media (min-width: 768px) {
+    .position-md-relative {
+        position: relative !important;
+    }
+
+    .position-md-absolute {
+        position: absolute !important;
+    }
+
+    .hero-details-property {
+        top: 7%;
+    }
+
+    .fw-md-100 {
+        font-weight: 100;
+    }
+
+    .fw-md-200 {
+        font-weight: 200;
+    }
+
+    .fw-md-300 {
+        font-weight: 300;
+    }
+
+    .fw-md-400 {
+        font-weight: 400;
+    }
+
+    .fw-md-500 {
+        font-weight: 500;
+    }
+
+    .fw-md-600 {
+        font-weight: 600;
+    }
+
+    .fw-md-700 {
+        font-weight: 700;
+    }
+
+    .fw-md-800 {
+        font-weight: 800;
+    }
+
+    .fw-md-900 {
+        font-weight: 900;
+    }
+
+    .fss-md-1 {
+        font-size: 1px;
+    }
+
+    .fss-md-2 {
+        font-size: 2px;
+    }
+
+    .fss-md-3 {
+        font-size: 3px;
+    }
+
+    .fss-md-4 {
+        font-size: 4px;
+    }
+
+    .fss-md-5 {
+        font-size: 5px;
+    }
+
+    .fss-md-6 {
+        font-size: 6px;
+    }
+
+    .fss-md-7 {
+        font-size: 7px;
+    }
+
+    .fss-md-8 {
+        font-size: 8px;
+    }
+
+    .fss-md-9 {
+        font-size: 9px;
+    }
+
+    .fss-md-10 {
+        font-size: 10px;
+    }
+
+    .fss-md-11 {
+        font-size: 11px;
+    }
+
+    .fss-md-12 {
+        font-size: 12px;
+    }
+
+    .fss-md-13 {
+        font-size: 13px;
+    }
+
+    .fss-md-14 {
+        font-size: 14px;
+    }
+
+    .fss-md-15 {
+        font-size: 15px;
+    }
+
+    .fss-md-16 {
+        font-size: 16px;
+    }
+
+    .fss-md-17 {
+        font-size: 17px;
+    }
+
+    .fss-md-18 {
+        font-size: 18px;
+    }
+
+    .fss-md-19 {
+        font-size: 19px;
+    }
+
+    .fss-md-20 {
+        font-size: 20px;
+    }
+
+    .fss-md-21 {
+        font-size: 21px;
+    }
+
+    .fss-md-22 {
+        font-size: 22px;
+    }
+
+    .fss-md-23 {
+        font-size: 23px;
+    }
+
+    .fss-md-24 {
+        font-size: 24px;
+    }
+
+    .fss-md-25 {
+        font-size: 25px;
+    }
+
+    .fss-md-26 {
+        font-size: 26px;
+    }
+
+    .fss-md-27 {
+        font-size: 27px;
+    }
+
+    .fss-md-28 {
+        font-size: 28px;
+    }
+
+    .fss-md-29 {
+        font-size: 29px;
+    }
+
+    .fss-md-30 {
+        font-size: 30px;
+    }
+    .hero-banner{
+        height: 50vh;
+    }
+    .grid .counter-listing {
+        flex: 1;
+    }
+    .md-none{
+        display: none;
+    }
+}
+
+/* Large devices (lg) - Screens ≥992px */
+@media (min-width: 992px) {
+    .fw-lg-100 {
+        font-weight: 100;
+    }
+
+    .fw-lg-200 {
+        font-weight: 200;
+    }
+
+    .fw-lg-300 {
+        font-weight: 300;
+    }
+
+    .fw-lg-400 {
+        font-weight: 400;
+    }
+
+    .fw-lg-500 {
+        font-weight: 500;
+    }
+
+    .fw-lg-600 {
+        font-weight: 600;
+    }
+
+    .fw-lg-700 {
+        font-weight: 700;
+    }
+
+    .fw-lg-800 {
+        font-weight: 800;
+    }
+
+    .fw-lg-900 {
+        font-weight: 900;
+    }
+
+    .fss-lg-1 {
+        font-size: 1px;
+    }
+
+    .fss-lg-2 {
+        font-size: 2px;
+    }
+
+    .fss-lg-3 {
+        font-size: 3px;
+    }
+
+    .fss-lg-4 {
+        font-size: 4px;
+    }
+
+    .fss-lg-5 {
+        font-size: 5px;
+    }
+
+    .fss-lg-6 {
+        font-size: 6px;
+    }
+
+    .fss-lg-7 {
+        font-size: 7px;
+    }
+
+    .fss-lg-8 {
+        font-size: 8px;
+    }
+
+    .fss-lg-9 {
+        font-size: 9px;
+    }
+
+    .fss-lg-10 {
+        font-size: 10px;
+    }
+
+    .fss-lg-11 {
+        font-size: 11px;
+    }
+
+    .fss-lg-12 {
+        font-size: 12px;
+    }
+
+    .fss-lg-13 {
+        font-size: 13px;
+    }
+
+    .fss-lg-14 {
+        font-size: 14px;
+    }
+
+    .fss-lg-15 {
+        font-size: 15px;
+    }
+
+    .fss-lg-16 {
+        font-size: 16px;
+    }
+
+    .fss-lg-17 {
+        font-size: 17px;
+    }
+
+    .fss-lg-18 {
+        font-size: 18px;
+    }
+
+    .fss-lg-19 {
+        font-size: 19px;
+    }
+
+    .fss-lg-20 {
+        font-size: 20px;
+    }
+
+    .fss-lg-21 {
+        font-size: 21px;
+    }
+
+    .fss-lg-22 {
+        font-size: 22px;
+    }
+
+    .fss-lg-23 {
+        font-size: 23px;
+    }
+
+    .fss-lg-24 {
+        font-size: 24px;
+    }
+
+    .fss-lg-25 {
+        font-size: 25px;
+    }
+
+    .fss-lg-26 {
+        font-size: 26px;
+    }
+
+    .fss-lg-27 {
+        font-size: 27px;
+    }
+
+    .fss-lg-28 {
+        font-size: 28px;
+    }
+
+    .fss-lg-29 {
+        font-size: 29px;
+    }
+
+    .fss-lg-30 {
+        font-size: 30px;
+    }
+
+    .position-lg-relative {
+        position: relative !important;
+    }
+
+    .position-lg-absolute {
+        position: absolute !important;
+    }
+
+    .hero-img {
+        border-radius: 0 !important;
+        border-bottom-left-radius: 100px !important;
+        height: calc(100vh - 70px);
+        width: 100%;
+        object-position: center;
+        object-fit: cover;
+    }
+    .hero-banner{
+        height: calc(100vh - 80px);
+    }
+    .rounded-md-left-0{
+        border-top-left-radius: 0!important;
+        border-bottom-left-radius: 0!important;
+    }
+    .rounded-md-right-0{
+        border-top-right-radius: 0!important;
+        border-bottom-right-radius: 0!important;
+    }
+}
+
+@media (max-width: 768px) { 
+    .extra-hide { 
+        display: none; 
+    }
+    .sm-none{
+        display: none;
+    }
+    .sm-border-right{
+        border-right: 2px solid #cacaca;
+    }
+    .sm-border-none{
+        border-right:none;
+    }
+}
