@@ -704,4 +704,3 @@ $(document).on("click", "[data-close-id]", function (event) {
 $("#previewImageUploader").on("hidden.bs.modal", function () {
     $(".modal-backdrop").removeClass("preview-backdrop");
 });
-        
